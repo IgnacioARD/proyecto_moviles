@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto_moviles</string>
+    <string name="edtNombre">Nombre</string>
+    <string name="edtIngredientes">Ingredientes</string>
+    <string name="btnElegir">Elegir Imagen</string>
+    <string name="btnAgregar">Agregar receta a lista</string>
+    <string name="btnLista">Ver lista de recetas</string>
+</resources>
